@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-DisneyPlusApp-MiniProject/static/css/main.1e86ae72.css",
-    "main.js": "/React-DisneyPlusApp-MiniProject/static/js/main.ba0e7867.js",
+    "main.js": "/React-DisneyPlusApp-MiniProject/static/js/main.e61afb66.js",
     "static/js/787.5f1d943f.chunk.js": "/React-DisneyPlusApp-MiniProject/static/js/787.5f1d943f.chunk.js",
     "static/media/cta-logo-two.png": "/React-DisneyPlusApp-MiniProject/static/media/cta-logo-two.e69ae55254630c715843.png",
     "static/media/cta-logo-one.svg": "/React-DisneyPlusApp-MiniProject/static/media/cta-logo-one.1e2a5ccbbcbea0879d03e030e1e295ff.svg",
     "index.html": "/React-DisneyPlusApp-MiniProject/index.html",
     "main.1e86ae72.css.map": "/React-DisneyPlusApp-MiniProject/static/css/main.1e86ae72.css.map",
-    "main.ba0e7867.js.map": "/React-DisneyPlusApp-MiniProject/static/js/main.ba0e7867.js.map",
+    "main.e61afb66.js.map": "/React-DisneyPlusApp-MiniProject/static/js/main.e61afb66.js.map",
     "787.5f1d943f.chunk.js.map": "/React-DisneyPlusApp-MiniProject/static/js/787.5f1d943f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e86ae72.css",
-    "static/js/main.ba0e7867.js"
+    "static/js/main.e61afb66.js"
   ]
 }
