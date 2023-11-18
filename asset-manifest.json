@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-DisneyPlusApp-MiniProject/static/css/main.1e86ae72.css",
+    "main.js": "/React-DisneyPlusApp-MiniProject/static/js/main.78cde3da.js",
+    "static/js/787.5f1d943f.chunk.js": "/React-DisneyPlusApp-MiniProject/static/js/787.5f1d943f.chunk.js",
+    "index.html": "/React-DisneyPlusApp-MiniProject/index.html",
+    "main.1e86ae72.css.map": "/React-DisneyPlusApp-MiniProject/static/css/main.1e86ae72.css.map",
+    "main.78cde3da.js.map": "/React-DisneyPlusApp-MiniProject/static/js/main.78cde3da.js.map",
+    "787.5f1d943f.chunk.js.map": "/React-DisneyPlusApp-MiniProject/static/js/787.5f1d943f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e86ae72.css",
+    "static/js/main.78cde3da.js"
+  ]
+}
